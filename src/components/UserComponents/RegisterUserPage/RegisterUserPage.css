@@ -1,0 +1,11 @@
+.inputContainer>div>input{
+    margin-bottom: 0px;
+}
+.error{
+    font-size: x-small;
+    color: red;
+    margin-bottom: 5px;
+}
+.inputContainer>div{
+    width: 100%;
+}

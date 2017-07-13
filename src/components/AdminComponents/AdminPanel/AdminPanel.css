@@ -1,0 +1,37 @@
+.container {
+  
+}
+.adminSidePanel{
+    border: solid;
+    border-width: 5px;
+    border-color: #2799ce;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.adminSidePanelItem{
+    background-color:#2799ce;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    font-size: larger;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.adminSidePanelItem{
+     background-color:#2799ce;
+     color: white;
+     border-radius: 5px;
+     text-align: center;
+     font-size: larger;
+     margin-bottom: 8px;
+     cursor: pointer;
+
+ }
+
+.adminSidePanelItem:hover{
+    color: white;
+    background-color: blue;
+    box-shadow: 5px 5px 5px #888888;
+}

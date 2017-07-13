@@ -1,0 +1,22 @@
+.container {
+  
+}
+.basket{
+    width: 20%;
+    max-height:100vh;
+    overflow-y: scroll;
+    background-color: white;
+    color: #2BBBAD;
+    position: absolute;
+    right: 20px;
+    top:100px;
+    z-index:20;
+}
+@media (max-width: 760px) {
+    .basket {
+        width: 50%;
+    }
+}
+.white{
+    color:#2BBBAD!important; ;
+}

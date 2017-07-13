@@ -1,0 +1,27 @@
+.container {
+  
+}
+.changePic{
+    padding: 5px;
+    background-color: #039be5;
+    color: white;
+    border-radius: 5px;
+    width: 34px;
+    position: absolute;
+    top:40%;
+    z-index:10;
+    cursor: pointer;
+
+}
+.changePic>i{
+    font-size: x-large!important;
+}
+.picRight{
+    right: 23px;
+}
+.picleft{
+    left: 23px;
+}
+.card-reveal{
+    z-index: 11 !important;
+}
