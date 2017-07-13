@@ -11,6 +11,7 @@
     right: 20px;
     top:100px;
     z-index:20;
+    padding: 10px;
 }
 @media (max-width: 760px) {
     .basket {
