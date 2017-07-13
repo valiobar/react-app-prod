@@ -1,5 +1,5 @@
 export default  {
 
-    baseAppUrl:'http://localhost:5000/api/',
-    baseUsersUrl:'http://localhost:5000/api/users',
+    baseAppUrl:'https://node-online-store.herokuapp.com/api/',
+    baseUsersUrl:'https://node-online-store.herokuapp.com/api/users',
 }
